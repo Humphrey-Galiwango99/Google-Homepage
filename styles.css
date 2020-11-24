@@ -1,0 +1,44 @@
+*{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+img{
+    padding-top: 100px;
+    padding-right:600px;
+    padding-bottom:30px;
+    padding-left: 570px;
+    max-width: 100%;
+    height: auto;
+}
+.input-field{
+    align-items: center;
+    border-style: solid;
+    border-radius: 0.8cm;
+    height:30px;
+    width: 600px;
+    padding: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    margin-left: 200px;
+}
+.input-icons { 
+    width: 80%; 
+    margin: 5px; 
+    text-align: center; 
+}
+
+.icon{
+    padding: 10px; 
+    position: relative;
+    min-width: 40px; 
+
+}
+.buttons{
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    border: 5px;
+}
+p{
+    text-align: center;
+    padding-top: 15px;
+}
